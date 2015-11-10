@@ -1,5 +1,6 @@
 # design-patterns
-a study of design pattern implementation
+
+a study of design pattern idiomatic implementation in modern renditions of languages for McGill COMP 303
 
 
 ## Table of Which Patterns Apply to Which Languages
